@@ -1,0 +1,6 @@
+env
+Pipfile
+*.DS_Store
+*.pyc
+__pycache__
+/static
